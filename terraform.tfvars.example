@@ -1,0 +1,4 @@
+project_id   = "your-google-cloud-project-id"
+region       = "us-east1"
+zone         = "us-east1-b"
+cluster_name = "moyo-gke-cluster"
